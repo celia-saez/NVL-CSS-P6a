@@ -83,8 +83,32 @@
    background-border: 1px solid black;
    }
 .1 {
-   background-color: white;
+   background-color: #FFFFFA;
    }
 .2 {
-   background-color: white;
+   background-color: #B5B5B1e;
+   }
+.3 {
+   background-color: #999996;
+   }
+.4 {
+   background-color: #7D7D7A;
+   }
+.5 {
+   background-color: #6E6E6B;
+   }
+.6 {
+   background-color: #5E5E5C;
+   }
+.7 {
+   background-color: #4F4F4D;
+   }
+.8 {
+   background-color: #424241;
+   }
+.9 {
+   background-color: #3B3B39;
+   }
+.10 {
+   background-color: #1C1C1B;
    }
